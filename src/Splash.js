@@ -71,7 +71,7 @@ const Splash = () => {
 
     return (
         <div className='outer'>
-            <h1 className='title'>WARZONE TEAM RANK</h1>
+            <h1 className='title'>WARZONE RANK</h1>
             <div className='outerPop'>
                 <div
                     className='pop'
